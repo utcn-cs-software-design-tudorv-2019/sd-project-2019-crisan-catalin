@@ -1,9 +1,7 @@
-Please modify this file so it contains ONLY your full name: Surname & First Name
-
 You can find the related resources at https://github.com/utcn-cs-software-design-tudorv-2019/LabInfo
 
-Depozit de produse
+Pruducts Warehouse
 - Login
-- Administrator CRUD pe produse, utilizatori
-- Utilizatori vanzare de produse la clienti, eliberare factura(raport)
-- Email la finalizare comanda
+- Administrator CRUD on products, users
+- Users can sell products to clients, make bill(raport)
+- Email client when products comand is done
